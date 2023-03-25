@@ -1,0 +1,8 @@
+.font_face_nb {
+    font-family: "NunitoBold";
+   }
+.cloud_img {
+    position: relative;
+    bottom: -8px;
+    z-index: 3;
+}

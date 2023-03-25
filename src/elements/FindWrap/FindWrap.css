@@ -1,0 +1,25 @@
+.search_box {
+    align-items: center;
+    background: #0a303a;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Nunito', sans-serif;
+    margin-top: -45px;
+    position: relative;
+    z-index: 1;
+    border: none;
+}
+.search_block {
+    
+    outline: none!important;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 0px 2px 0px 2px;
+}
+.orange {
+    background:  #e73a2d!important;
+}
+.search_bar {
+    margin-top: 20px;
+}
